@@ -1,4 +1,4 @@
-ECS 122A – Algorithm Design & Analysis
+**ECS 122A – Algorithm Design & Analysis**
 
 This repository collects my implementations of algorithms from ECS 122A (Algorithm Design & Analysis).
 The course focused on the mathematical foundations of algorithms, analyzing their complexity, and applying different design paradigms such as Divide & Conquer, Greedy methods, Dynamic Programming, and Graph Algorithms.
